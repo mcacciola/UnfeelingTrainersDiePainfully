@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTDP", "UTDP\UTDP\UTDP.csproj", "{B18459BE-D52F-4907-A7E3-C34E66360AD9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "UTDPContent", "UTDP\UTDPContent\UTDPContent.contentproj", "{D23D437C-2B4E-4ABB-86B6-9EBEC2C050BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18459BE-D52F-4907-A7E3-C34E66360AD9}.Debug|x86.ActiveCfg = Debug|x86
+		{B18459BE-D52F-4907-A7E3-C34E66360AD9}.Debug|x86.Build.0 = Debug|x86
+		{B18459BE-D52F-4907-A7E3-C34E66360AD9}.Release|x86.ActiveCfg = Release|x86
+		{B18459BE-D52F-4907-A7E3-C34E66360AD9}.Release|x86.Build.0 = Release|x86
+		{D23D437C-2B4E-4ABB-86B6-9EBEC2C050BF}.Debug|x86.ActiveCfg = Debug|x86
+		{D23D437C-2B4E-4ABB-86B6-9EBEC2C050BF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
